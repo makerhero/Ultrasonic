@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map Ultrasonic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Ultrasonic	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+timing		KEYWORD2
+convent		KEYWORD2
+sampleCreate	KEYWORD2
+sampleClear	KEYWORD2
+unbiasedStdDev	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
